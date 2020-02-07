@@ -11,7 +11,7 @@ label {
   text-align:center;
 }
 
-@media screen and (min-width: 480px){
+@media screen and (min-width: 400px){
   label{
 	  display: inline-block;
 	  color: white;
